@@ -1,9 +1,5 @@
 # Fraud-Detection-Notebook
 
-========================================================================
-FRAUD DETECTION SYSTEM - PROJECT README
-========================================================================
-
 Project Overview
 ----------------
 This project focuses on building an end-to-end Machine Learning pipeline
